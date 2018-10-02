@@ -12,7 +12,7 @@ def homeview(request):
                         )
 
 
-def gameview(request):
-    return HttpResponse('<h1>Game Page</h1>')
+
+
 
 
