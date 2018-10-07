@@ -7,7 +7,7 @@ from . import views
 
 urlpatterns = [
     path('', views.homeview, name='home-page'),
-    path('game/', views.gameview, name='game-page')
+    #path('game/', views.gameview, name='game-page')
 ]
 
 
