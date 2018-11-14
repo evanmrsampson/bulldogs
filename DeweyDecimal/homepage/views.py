@@ -9,6 +9,7 @@ def homeview(request):
                         'categorizing books in a library '
                         'using the Dewey Decimal System. This system, and game, will help hone their problem solving '
                         'and memory skills. </p>'
+                        '<a href=""><i>what will one day be a link to the game page</i></a>'
                         )
 
 
